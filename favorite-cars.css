@@ -34,7 +34,7 @@ body{
 #car-categories{
     width: 100%;
     height: 15vh;
-    background-image: url(../carrs/03mercepexels-photo-215529.jpeg);
+    background-image: url(./carrs/03mercepexels-photo-215529.jpeg);
     background-position: bottom;
     background-size: cover;
     position: relative;
